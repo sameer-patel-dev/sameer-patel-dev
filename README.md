@@ -41,6 +41,3 @@
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
    </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer-patel-dev&show_icons=true&locale=en&layout=compact" alt="sameer-patel-dev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer-patel-dev&show_icons=true&locale=en" alt="sameer-patel-dev" /></p>
