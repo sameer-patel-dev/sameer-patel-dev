@@ -1,10 +1,10 @@
 ## Hey 👋, I'm [Sameer Patel!](https://github.com/sameer-patel-dev)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsampat/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sameerpatel.netlify.app/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_sameer.patel_/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/therealsampat)
-[![Blogs](https://img.shields.io/badge/-Blogs-orange?style=flat-square&logo=Medium&logoColor=white)](https://www.kaggle.com/therealsampat)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sameerpatel.netlify.app/)
+[![Blogs](https://img.shields.io/badge/-Blogs-orange?style=flat-square&logo=Medium&logoColor=white)](https://sampatblogs.blogspot.com/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_sameer.patel_/)
 
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sameer-patel-dev.sameer-patel-dev&style=flat-square&color=0088cc)
