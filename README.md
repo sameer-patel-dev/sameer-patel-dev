@@ -52,7 +52,7 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-patel-dev&hide_border=true" />
+![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameer-patel-dev&show_icons=true&theme=radical)
 </details>
 
  
