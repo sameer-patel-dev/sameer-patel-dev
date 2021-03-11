@@ -27,7 +27,7 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; I love spending time on Kaggle as well. 
+- 🍕 &nbsp; I love spending time on Kaggle as well.
 
 ### Languages and Tools:
 
