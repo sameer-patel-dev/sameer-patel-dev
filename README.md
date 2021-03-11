@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsampat/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sameerpatel.netlify.app/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_sameer.patel_/)
-[![Kaggle](https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg)](https://www.kaggle.com/therealsampat)
+[![Kaggle](https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.kaggle.com/therealsampat)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sameer-patel-dev.sameer-patel-dev&style=flat-square&color=0088cc)
 
