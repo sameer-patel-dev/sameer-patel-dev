@@ -46,7 +46,7 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-patel-dev&exclude_repo=Hisaab-Kitaab,Online-Course-Portal,Social-Networking-App,SMA--MERN&show_icons=true&hide_border=true&layout=compact"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-patel-dev&exclude_repo=Hisaab-Kitaab,Online-Course-Portal,Social-Networking-App,SMA--MERN,Repo&show_icons=true&hide_border=true&layout=compact"/>
 </details>
 
 <details>	
