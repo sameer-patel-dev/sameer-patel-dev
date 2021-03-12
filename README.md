@@ -50,13 +50,6 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 </details>
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameer-patel-dev&show_icons=true&theme=tokyonight)
-</details>
-
- 
-<details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
