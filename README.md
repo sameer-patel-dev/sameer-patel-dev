@@ -13,7 +13,7 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 
 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/sameer-patel-dev/sameer-patel-dev/main/code.gif" />
 
 ### Talking about Personal Stuffs:
 
