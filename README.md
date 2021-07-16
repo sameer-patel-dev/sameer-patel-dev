@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sameer-patel-dev.sameer-patel-dev&style=flat-square&color=0088cc)
 
-I'm a final year student pursuing Bachelors's in Information Technology 🎓 from KJ Somaiya College of Engineering 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 💻. I'm currently into Data Science and Software Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I have recently completed my Bachelors's in Information Technology 🎓 from KJ Somaiya College of Engineering 🏛. I am currently working as a Technology Trainee at RBL Bank. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 💻. I'm currently into Data Science and Software Development 🕸️ and working on my Data Structures and Algorithms. 🤓
 
 
 
@@ -17,17 +17,16 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Python, Nodejs, Express, React etc.
-- 🚀 &nbsp; I’m currently learning Data Science and Machine Learning.
+- 🛠 &nbsp; Technology Trainee at RBL Bank.
+- 🚀 &nbsp; Interested in Software Development and Data Science.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sameer-patel-dev).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/therealsampat/)! I am happy to help.
 - 📫 &nbsp; How to reach me: sameer.patel201999@gmail.com.
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; I love spending time on Kaggle as well.
+- 💻 &nbsp; I love exploring new tech stacks and developing applications.
+- 🏐 &nbsp; I love playing VolleyBall as well.
 
 ### Languages and Tools:
 
