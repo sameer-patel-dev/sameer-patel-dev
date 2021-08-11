@@ -53,7 +53,7 @@ I have recently completed my Bachelors's in Information Technology 🎓 from KJ 
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	  <li><b>OS:</b> Windows 10</li>
-	    <li><b>Laptop: </b> Dell Inspiron 15-3567 (i5)</li>
+	    <li><b>Laptop: </b> Lenovo IdeaPad Slim5</li>
   	  <li><b>Browser: </b> Google Chrome</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Kaggle, Analytics Vidhya and Linkedin</li>
