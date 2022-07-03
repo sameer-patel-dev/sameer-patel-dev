@@ -17,7 +17,7 @@ I have recently completed my Bachelors's in Information Technology 🎓 from KJ 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; Technology Trainee at RBL Bank.
+- 🛠 &nbsp; Data Scientist at RBL Bank.
 - 🚀 &nbsp; Interested in Software Development and Data Science.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sameer-patel-dev).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/therealsampat/)! I am happy to help.
