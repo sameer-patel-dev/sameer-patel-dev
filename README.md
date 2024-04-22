@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sameer-patel-dev.sameer-patel-dev&style=flat-square&color=0088cc)
 
-I have recently completed my Bachelors's in Information Technology 🎓 from KJ Somaiya College of Engineering 🏛. I am currently working as a Technology Trainee at RBL Bank. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 💻. I'm currently into Data Science and Software Development 🕸️ and working on my Data Structures and Algorithms. 🤓
+I am currently purusing my Master's at Saint Mary's Univeristy, Halifax, Canada (2023-24) 🏛. I completed my Bachelors's in Information Technology 🎓 from KJ Somaiya College of Engineering (2017-2021). 🏛. I have around 2 years of experience in Data Science and Development, working as a Data Scientist for RBL Bank (2021-23). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 
 
@@ -17,7 +17,8 @@ I have recently completed my Bachelors's in Information Technology 🎓 from KJ 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; Data Scientist at RBL Bank.
+- 🛠 &nbsp; Data Scientist at KardioDiagnostix.
+- 🛠 &nbsp; Ex- Data Scientist at RBL Bank.
 - 🚀 &nbsp; Interested in Software Development and Data Science.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sameer-patel-dev).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/therealsampat/)! I am happy to help.
@@ -39,23 +40,3 @@ I have recently completed my Bachelors's in Information Technology 🎓 from KJ 
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-
-### Projects and Dev Stuffs:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-patel-dev&exclude_repo=Hisaab-Kitaab,Online-Course-Portal,Social-Networking-App,SMA--MERN,Repo,Final_Year,URL-Shrinker-using-NodeJS,E-Commerce-App-using-Reactjs,NodeJs-Authentication-with-Passport.js, Coursera-Reactjs-Assignments&show_icons=true&hide_border=true&layout=compact"/>
-</details>
-
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	  <li><b>OS:</b> Windows 10</li>
-	    <li><b>Laptop: </b> Lenovo IdeaPad Slim5</li>
-  	  <li><b>Browser: </b> Google Chrome</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Kaggle, Analytics Vidhya and Linkedin</li>
-	</ul>	
-</details>
