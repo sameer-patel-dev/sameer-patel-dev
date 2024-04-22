@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sameer-patel-dev.sameer-patel-dev&style=flat-square&color=0088cc)
 
-I am currently purusing my Master's at Saint Mary's Univeristy, Halifax, Canada (2023-24) 🏛. I completed my Bachelors's in Information Technology 🎓 from KJ Somaiya College of Engineering (2017-2021). 🏛. I have around 2 years of experience in Data Science and Development, working as a Data Scientist for RBL Bank (2021-23). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+I am currently pursuing my Master's at Saint Mary's Univeristy, Halifax, Canada (2023-24) 🏛. I completed my Bachelors's in Information Technology 🎓 from KJ Somaiya College of Engineering (2017-2021). 🏛. I have around 2 years of experience in Data Science and Development, working as a Data Scientist for RBL Bank (2021-23). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 
 
